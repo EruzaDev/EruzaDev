@@ -10,19 +10,13 @@
 EruzaDev/EruzaDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true" />
-</picture>
+<div class="flex-container">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EruzaDev&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EruzaDev&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EruzaDev&layout=compact&theme=radical)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EruzaDev&theme=radical)](https://github.com/EruzaDev/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@EruzaDev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
