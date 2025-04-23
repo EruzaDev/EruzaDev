@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EruzaDev&layout=compact&theme=radical)
 
-<!---[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EruzaDev&theme=radical)](https://github.com/EruzaDev/github-readme-stats)--->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EruzaDev&theme=radical)](https://github.com/EruzaDev/github-readme-stats)
