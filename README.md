@@ -61,11 +61,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/?user=EruzaDev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=EruzaDev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+
+  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true&theme=react&card_width=390&card_height=200" alt="EruzaDev's GitHub stats" />
+  <img width="390" height="200" src="https://streak-stats.demolab.com?user=EruzaDev&theme=react&border_radius=10&card_width=390&card_height=200" alt="GitHub Streak" />
+
   <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/api/top-langs/?username=EruzaDev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EruzaDev&stats_format=bytes&theme=react&card_width=780" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EruzaDev&theme=react&card_width=780" alt="Harlok's WakaTime stats" />
+
 </div>
 
 <br/><br/>
@@ -75,7 +80,9 @@
 <br/>
 
 <div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Peace+Out;And+God+Bless!)](https://git.io/typing-svg)
+
 </div>
 
 <br/>
