@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning, Cloud Computing, Mobile Development**
 
-💬 Ask me about **Python, Arduino, RaspberryPi... or anything [here](https://github.com/EruzaDev/EruzaDev/issues)**
+💬 Ask me about **Python, Arduino, RaspberryPi, Linux... or anything [here](https://github.com/EruzaDev/EruzaDev/issues)**
 
 
  </div>
