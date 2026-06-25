@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Machine Learning, Cloud Computing, Mobile Development**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/EruzaDev/EruzaDev/issues)**
+💬 Ask me about **Python, Arduino, RaspberryPi... or anything [here](https://github.com/EruzaDev/EruzaDev/issues)**
 
 
  </div>
@@ -81,7 +81,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Peace+Out;And+God+Bless!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Peace+Out;And+God+Bless!;Carpe+Diem!)](https://git.io/typing-svg)
 
 </div>
 
