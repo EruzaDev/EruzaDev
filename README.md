@@ -63,8 +63,8 @@
 <br>
 <div align="center">
 
-  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true&theme=react&card_width=390&card_height=200" alt="EruzaDev's GitHub stats" />
-  <img width="390" height="200" src="https://streak-stats.demolab.com?user=EruzaDev&theme=react&border_radius=10&card_width=390&card_height=200" alt="GitHub Streak" />
+  <img width="425" height="200" src="https://github-readme-stats.vercel.app/api?username=EruzaDev&show_icons=true&theme=react&card_width=410&card_height=200" alt="EruzaDev's GitHub stats" />
+  <img width="355" height="200" src="https://streak-stats.demolab.com?user=EruzaDev&theme=react&border_radius=10&card_width=370&card_height=200" alt="GitHub Streak" />
 
   <br/>
 
