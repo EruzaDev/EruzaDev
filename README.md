@@ -36,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=arduino,cmake,docker,flask,flutter,latex,mysql,raspberrypi,figma, git,github,githubactions" />
+    <img src="https://skillicons.dev/icons?i=arduino,cmake,docker,flask,flutter,latex,mysql,raspberrypi,figma,git,github,githubactions" />
     <img src="https://skillicons.dev/icons?i=py,cpp,c,css,js,dart,kotlin,py,java,bash" /><br>
 </div>
 
@@ -75,7 +75,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Peace+Out;And+God+Bless!)](https://git.io/typing-svg)
 </div>
 
 <br/>
